@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mo-Sheikh
-- 👨🏿‍💻 I'm a Software Engineer with over 5 years experience and a SAAS business co-founder
+- 👨🏿‍💻 I'm a Software Engineer with over 7 years experience
 - 👀 I’m interested in DevOps and Software Engineering
 - 📫 You can reach me on Twitter: @codewithmo
 
